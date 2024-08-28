@@ -1,0 +1,15 @@
+h3 {
+    color: red;
+}
+
+button {
+    color: whitesmoke;
+    background-color: blue;
+    border-color: transparent;
+}
+
+
+h4 {
+    text-align: center;
+    font-weight: 300;
+}
